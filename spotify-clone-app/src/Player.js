@@ -5,3 +5,4 @@ export const Player = () => {
     <div>Welcome to Spotify</div>
   )
 }
+export default Player;
