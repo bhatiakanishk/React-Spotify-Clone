@@ -5,6 +5,8 @@ Spotify Clone in React JS
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/90340546/174590071-1c2a2e25-b3e6-4651-ad1f-39e6dfd49f2f.png)
 
+![image](https://user-images.githubusercontent.com/90340546/174590303-55c9082b-e3d0-4e40-9563-fde1b51de77c.png)
+
 
 ## Running the app
 a) Clone the repository
