@@ -19,3 +19,9 @@ npm start
 ```
 
 ## Technologies implemented
+a) User Authentication
+b) Spotify API
+c) Responsive Design
+d) Material UI
+e) React Context API
+f) React Hooks
